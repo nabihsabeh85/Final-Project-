@@ -42,3 +42,7 @@ To use Instructor’s Co-Pilot, follow these steps:
 5. Upload a PDF file through the Gradio interface.
 6. Wait for the tool to process the file and generate the report.
 7. Review the generated report, which includes new teaching ideas, use cases, real-life examples, discussion prompts, and related links for each identified subject.
+8. 
+
+https://docs.google.com/presentation/d/1MCM3Pz8nBA9D32QR40Zqqez_Ew1CShtkDZOamQ3iMlo/edit#slide=id.p
+
